@@ -8,14 +8,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/lakshanaa g s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshanaa g s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-302k03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil t" height="30" width="40" /></a>
 
 
-<a href="https://instagram.com/lakshuguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshuguru" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lakshu_0guru_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lakshu_0guru_7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lakshanaa g s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakshanaa g s" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lakshanaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakshanaa" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/lakshuguru07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lakshuguru07" height="30" width="40" /></a>
+<a href="https://instagram.com/lakshuguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil t" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/profile/nikhilkuttypa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhil t" height="30" width="40" /></a>
+<a href="https://leetcode.com/Nikhil_2003_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil t" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
